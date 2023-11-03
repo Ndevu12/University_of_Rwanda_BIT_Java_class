@@ -1,5 +1,6 @@
 # University_of_Rwanda_Java_class_BIT
 # My RegNomber:222015923
+# Name: NIYOKWIZERWA Jean Paul Elisa
 
 # Welcome to My Programming Journey!
 
