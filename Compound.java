@@ -20,7 +20,7 @@ public class Compound{
         {
             double interest = principle*Math.pow( 1 + rate/n,n*time);
             
-            System.out.println(interest);
+            System.out.println("Compound interest of Mr.Bob after 3 years is "+interest);
 
         }
 

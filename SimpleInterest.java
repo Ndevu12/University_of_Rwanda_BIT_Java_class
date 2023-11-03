@@ -15,7 +15,7 @@ public class SimpleInterest {
         void calculation()
             {
                 double interest = year * principle * rate;
-                System.out.println(interest);
+                System.out.println("simple interest of Mr.Bob after 5 years is "+interest);
     
             }
     
