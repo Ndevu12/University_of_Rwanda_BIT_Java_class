@@ -1,3 +1,6 @@
+/*
+ * Printing multiplication table
+ */
 public class nestedwhileloop {
     public static void main(String[] args) {
         

@@ -1,3 +1,7 @@
+/*Classs - this class gets the personal information and dispal them
+ * classs: This constructor is used to initialize the class instance
+ * display: this method is used to display the personal information
+ */
 public class classs {
     
     int age;
@@ -15,6 +19,7 @@ public class classs {
         System.out.println(age  + " " + name + " " + address);
     }
 
+/*Calling classs object with main method */
     public static void main(String[] args) {
         classs s = new classs(23, "Ntwali","Kigali");
         //s.mane();

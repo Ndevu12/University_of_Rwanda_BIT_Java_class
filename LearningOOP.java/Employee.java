@@ -1,3 +1,7 @@
+/*This class read and display employee information 
+ * getdetail: This method initialize employee instance
+ * displaydetails: this method display employee information
+*/
 public class Employee {
 
    int empid;

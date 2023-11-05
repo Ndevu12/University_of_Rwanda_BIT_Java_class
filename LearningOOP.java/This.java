@@ -1,3 +1,6 @@
+/* This simple program aimed at getting familiar with this keyword 
+ * by calling constructor methods
+*/
 public class This {
     void testingThis(This o)
     {

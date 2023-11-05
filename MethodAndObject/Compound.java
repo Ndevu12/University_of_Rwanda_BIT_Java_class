@@ -1,4 +1,9 @@
-
+/*This program calculates compound interest 
+ * getamount: this methods initialize  the instance variables of the compound class
+ * calculation: this method calculates the the compound interest
+ * and prints the result to the screen
+ * main: this method calls class's method using objects
+*/
 import java.lang.Math;
 
 public class Compound{

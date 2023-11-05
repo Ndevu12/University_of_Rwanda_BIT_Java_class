@@ -1,3 +1,13 @@
+
+/* Account - it is a class that helps in management of the Bank account information and transactions.
+ * getamount: this function  get amount of money  from the account and set amount accordingly to the balance`
+ *  deposit: this function get deposit amount and add it to the account balance
+ * withdraw: this function deduce the amount to withdraw from the account balance
+ * checkbalance: this function check the current balance of the account
+ * info: this function provide information about the account: it accepts account ID as a parameter and 
+ * provides informationof the account
+ * If the provided account ID is not found it will return default message
+ */
 public class Account {
     
     int aId;

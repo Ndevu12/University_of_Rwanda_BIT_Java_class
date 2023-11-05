@@ -1,4 +1,14 @@
-import Employee;
+//import Employee;
+/* Employeemainclass - class that organize and manage employees information
+ * main: this main method is responsible for managing employees information for employee 
+ * and call employee class methods for perfroming specific actions or modificaton on employee information
+ */
+  
+ /* 
+ * @author <Ndevu - Jean Paul Elisa>
+ * @version 1.0
+ * @since 2020-04-17
+*/
 public class Employeemainclass {
     
     public static void main(String[] args) {

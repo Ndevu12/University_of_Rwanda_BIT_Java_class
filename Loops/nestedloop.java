@@ -1,4 +1,7 @@
-
+/*
+ * This program use for loop to dispaly array elements to the screen 
+ *
+ */
 public class nestedloop {
     public static void main(String[] args) {
         

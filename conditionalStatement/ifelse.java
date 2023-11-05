@@ -1,3 +1,8 @@
+/*This program attempt five boys to enter their ages, and make the comparison 
+ * between them and then shows the oldest among them.
+ * This program aimed at getting deep understanding of using "else if conditions".
+*/
+
 import java.util.Scanner;
 public class ifelse {
     public static void main(String[] args) {

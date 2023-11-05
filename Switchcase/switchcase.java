@@ -1,13 +1,23 @@
+/* This program accept a number corresponding to the month and 
+* when the number is less than or equal to 0 and the number is greater than 12,
+* The user is asked to re-enter the number again
+* after it display the name of the month  represented by the number
+* deafault: it will dissplay deafault message to the user 
+*/
 import java.util.Scanner;
 
 public class switchcase{
     public static void main(String [] arg){
+
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Enter a number corresponding to month");
         int month = scanner.nextInt();
+
         while (month <= 0 || month > 12 ){
             System.out.println("Re-Enter: month must be between 1 and 12");  
         }
+
         switch(month){
             case 1:
             System.out.println("January");
@@ -62,5 +72,6 @@ public class switchcase{
             
 
         }
+        scanner.close();
     }
 }

@@ -1,3 +1,6 @@
+/*
+ * Learning the use of unary operators
+ */
 class Operator2{ 
 public static void main(String args[]){  
 int a=10;  

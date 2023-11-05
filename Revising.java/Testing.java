@@ -1,3 +1,6 @@
+/*
+ * This class initialize class instance and print their values out to the screen 
+ */
 class Testing{
     int tid;
     String tname;

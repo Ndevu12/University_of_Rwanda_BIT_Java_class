@@ -1,3 +1,6 @@
+/* This program accept a number corresponding to the month and 
+* display the name of the month it represent 
+*/
 import java.util.Scanner;
 
 public class caseswitch{
@@ -61,5 +64,6 @@ public class caseswitch{
             
 
         }
+        scanners.close();
     }
 }

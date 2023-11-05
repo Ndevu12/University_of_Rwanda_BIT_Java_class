@@ -1,5 +1,8 @@
-//package My_Own.java
-import  Testing;
+/*
+ * this program test the use of objects and classes that are in different files
+*/
+
+import Testing;
 public class oop {
     public static void main(String[] args) {
         Testing t1 = new Testing();

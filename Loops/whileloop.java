@@ -1,4 +1,7 @@
-
+/*
+* This program provdes multiplication table for the any entered number entered by the user
+ * When the entered number is less than 0, user are asked to re-enter the number  
+ */
 import java.util.Scanner;
 public class whileloop {
     
@@ -15,9 +18,11 @@ public class whileloop {
             n = scanner.nextInt();
         }
         int i = 0;
+        /*Printing multiplication table */
         while (i <= 10){
             System.out.println(n +" "+"*"+" "+ i +" "+" = "+ i*n);
             i++;
         }
+        scanner.close();
     }
 }
