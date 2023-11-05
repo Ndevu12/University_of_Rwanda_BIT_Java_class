@@ -1,14 +1,5 @@
 # University_of_Rwanda_Java_class_BIT
-<<<<<<< HEAD
 
-# My RegNomber:222015923
-
-# Welcome to My Programming Journey!
-
-👋 Hello there! I'm [Your Name], a passionate student pursuing my Bachelor's degree in Information Technology at the University of Rwanda. This repository is a collection of the projects I've been working on as I dive deeper into the world of Advanced Programming with Java.
-
-📚 Throughout my academic journey, I've had the opportunity to explore various Java concepts, data structures, algorithms, and software development practices. Here, you'll find a range of projects that showcase my growth and progress in these areas.
-=======
 # My RegNomber:222015923
 # Name: NIYOKWIZERWA Jean Paul Elisa
 
@@ -17,7 +8,6 @@
 👋 Hello there! I'm NIYOKWIZERWA Jean Paul Elisa, a passionate student pursuing my Bachelor's degree in Business Information Technology (BIT) at the University of Rwanda. This repository is a collection of the projects I've been working on as I dive deeper into the world of Advanced Programming with Java model.
 
 📚 Throughout my academic journey, I the opportunity to explore various Java concepts, data structures, algorithms, and software development practices. Here, you'll find a range of projects that showcase my growth and progress in these areas.
->>>>>>> 45eaeb3480b3af8d5f351d9ae74b38e17bc35cfd
 
 🌟 Feel free to explore my work, and I hope you find something that piques your interest or inspires you in your own coding adventures. Your feedback and suggestions are always appreciated, so don't hesitate to reach out!
 
@@ -25,10 +15,6 @@
 
 🚀 Stay tuned for more exciting projects and updates as I progress through my studies at the University of Rwanda. If you have any questions or want to collaborate, please feel free to get in touch.
 
-<<<<<<< HEAD
-🔗 Connect with me on LinkedIn: [Your LinkedIn Profile Link]
-=======
-🔗 Connect with me on LinkedIn: linkedin.com/in/jean-paul-elisa-b59111288
->>>>>>> 45eaeb3480b3af8d5f351d9ae74b38e17bc35cfd
+🔗 Connect with me on LinkedIn: www.linkedin.com/in/jean-paul-elisa
 
 # Thank you for visiting, and I look forward to sharing my coding adventures with you!
